@@ -1,0 +1,134 @@
+body  {
+  background-color: #f0f2f5;
+}
+
+a {
+  text-decoration: none;
+}
+
+.welcome {
+  margin-top: 15%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.signup {
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.signupsuccess {
+  margin-top: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.javabook{
+  color: #3096f5 !important;
+}
+
+
+.logo {
+  color: #1877f2;
+  font-weight: bold;
+}
+
+.JavaFacebook {
+  font-size: 27px;
+  line-height: 28px;
+  width: auto;
+  font-weight: 400;
+}
+
+.divider {
+  border-bottom: 1px solid #dadde1;
+}
+
+
+.btn-primary:hover {
+  background-color: #1b64c1;
+}
+
+.btn-green {
+  background-color: #55b72d;
+  color: #fff;
+}
+
+
+.btn-green:hover {
+  color: #fff;
+  background-color: #46a221;
+}
+
+.profile-pic-icon {
+  width: 25px;
+  height: 25px;
+  border-radius: 20px;
+}
+
+.profile-pic-icon-two {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.profile-pic-icon-three {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+
+.profile-info {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+  border-radius: 20px;
+}
+
+
+.create-post-icon {
+  width: 25px;
+  height: 25px;
+  border-radius: 20px;
+  background-color: #e4e6eb;
+}
+
+.like {
+  width: 20px;
+  height: 20px;
+}
+
+.delete {
+  width: 20px;
+  height: 20px;
+}
+
+.like-post {
+  margin-left: 10px;
+}
+
+.comment {
+  margin-left: 10px;
+}
+
+.logout {
+  width: 25px;
+  height: 25px;
+  border-radius: 20px;
+  background-color: #e4e6eb;
+}
+
+
+
+.post-image {
+  width: 100%;
+}
+.drag{
+  resize: none;
+}
+
+.custom-file-input
+{
+    margin-left: 20%;
+    margin-right: 20%;
+}
